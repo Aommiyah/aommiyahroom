@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: "MyFont1";
-        src: url("Doughut.ttf");
+        src: url("Doughnut.ttf");
       }
       @font-face{
         font-family: "MyFont2";
