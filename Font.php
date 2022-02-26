@@ -4,11 +4,11 @@
     <style>
       @font-face{
         font-family: "MyFont1";
-        src: url("FC-Flexica.zip");
+        src: url("Doughut.ttf");
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("Chocolateteehaypai.zip");
+        src: url("ChocolateteehaypaiTEST.ttf");
       }
       #font1{
         font-family: "MyFont1";
@@ -19,7 +19,7 @@
     </style>
   </head>
   <body>
-    <h1> id="font1">นางสาวพชรภร หอมจันทร์ เลขที่ 20 ห้อง ม.4/12 เลขประจำตัว 57066</h1>
-    <h1> id="font2">นางสาวพชรภร หอมจันทร์ เลขที่ 20 ห้อง ม.4/12 เลขประจำตัว 57066</h1>
+    <h1 id="font1">นางสาวพชรภร หอมจันทร์ เลขที่ 20 ห้อง ม.4/12 เลขประจำตัว 57066</h1>
+    <h1 id="font2">นางสาวพชรภร หอมจันทร์ เลขที่ 20 ห้อง ม.4/12 เลขประจำตัว 57066</h1>
   </body>
 </html>
