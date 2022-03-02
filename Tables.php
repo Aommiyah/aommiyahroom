@@ -13,7 +13,7 @@
       <tr>
         <td>1</td>                  
         <td>Ruel</td>
-        <td><img src="https://images.app.goo.gl/uK8yUKSHaHmtp1zB6" width="45px"></td>
+        <td><img src="https://images.app.goo.gl/pocHSLysE8ynq8Td7" width="45px"></td>
         <td><a href="https://instagram.com/oneruel?utm_medium=copy_link">Instragram</a></td>
       </tr>
       <tr>
