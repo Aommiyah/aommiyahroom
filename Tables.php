@@ -13,7 +13,7 @@
       <tr>
         <td>1</td>                  
         <td>Ruel</td>
-        <td><img src="https://images.app.goo.gl/pocHSLysE8ynq8Td7" width="45px"></td>
+        <td><img src="https://s.isanook.com/sr/0/rp/rc/w0h0/ya0xacm1w0/aHR0cDovL2pvb3gtY21zLWltYWdlLTEyNTEzMTYxNjEuZmlsZS5teXFjbG91ZC5jb20vMjAyMS8wOS8yNy80Njc5NTc5NS03MzYzLTRkNjQtOTA5Yi03NTllNzVjOTUzYjcuanBnLzEwMDA=.jpg" width="45px"></td>
         <td><a href="https://instagram.com/oneruel?utm_medium=copy_link">Instragram</a></td>
       </tr>
       <tr>
