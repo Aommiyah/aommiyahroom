@@ -19,25 +19,25 @@
       <tr>
         <td>2</td>
         <td>Noze</td>
-        <td><img src="https://images.app.goo.gl/jLgNtP562ZsCKAnK8" width="45px"></td>
+        <td><img src="https://kpopnews.atsit.in/th/wp-content/uploads/2021/10/e0b899e0b8b1e0b881e0b980e0b895e0b989e0b899-noze-e0b881e0b8a5e0b8b2e0b8a2e0b980e0b89be0b987e0b899cf-cinderellae0b982e0b894e0b8a2e0b884-1.jpg" width="45px"></td>
         <td><a href="https://instagram.com/nozeworld?utm_medium=copy_link">Instragram</a></td>
       </tr>
       <tr>
         <td>3</td>
         <td>Dylan Minnette</td>
-        <td><img src="https://images.app.goo.gl/irsHf3SFfL6MCQB78" width="45px"></td>
+        <td><img src="https://www.tuenlinea.com/wp-content/uploads/2018/08/%C2%A1Conoce-a-la-chica-que-hace-suspirar-a-Dylan-a-Minnette.jpg" width="45px"></td>
         <td><a href="https://instagram.com/dylanminnette?utm_medium=copy_link">Instragram</a></td>
       </tr>
       <tr>
         <td>4</td>
         <td>คิมแทรี</td>
-        <td><img src="https://images.app.goo.gl/pfCrtchz2vYMA9Hb7" width="45px"></td>
+        <td><img src="https://0.soompi.io/wp-content/uploads/2022/02/10201815/kim-tae-ri-11.jpg" width="45px"></td>
         <td><a href="https://instagram.com/kimtaeri_official?utm_medium=copy_link">Instragram</a></td>
       </tr>
       <tr>
         <td>5</td>
         <td>ซงคัง</td>
-        <td><img src="https://images.app.goo.gl/VCi1VfL9ha1D8m6H8 https://images.app.goo.gl/VCi1VfL9ha1D8m6H8" width="45px"></td>
+        <td><img src="https://www.seoul2me.com/wp-content/uploads/2021/05/song-kang-3.jpg" width="45px"></td>
         <td><a href="https://instagram.com/songkang_b?utm_medium=copy_link">Instragram</a></td>
       </tr>
     </table>
