@@ -36,9 +36,9 @@
       </tr>
       <tr>
         <td>5</td>
-        <td>นัมจูฮยอก</td>
-        <td><img src="https://images.app.goo.gl/VCAZW1HjMqtKfBEy7" width="45px"></td>
-        <td><a href="https://instagram.com/skawngur?utm_medium=copy_link">Instragram</a></td>
+        <td>ซงคัง</td>
+        <td><img src="https://images.app.goo.gl/VCi1VfL9ha1D8m6H8 https://images.app.goo.gl/VCi1VfL9ha1D8m6H8" width="45px"></td>
+        <td><a href="https://instagram.com/songkang_b?utm_medium=copy_link">Instragram</a></td>
       </tr>
     </table>
   </body>
